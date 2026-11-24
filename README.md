@@ -16,3 +16,9 @@ Building projects, experimenting with infrastructure and learning along the way.
 <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux&theme=dark" />
 
 </div>
+
+<h3 align="center">Homelab</h3>
+
+<p align="center">
+  <img src="./sergiofruit_server_rack_smooth.gif" width="500" alt="Animated pixel art server rack" />
+</p>
