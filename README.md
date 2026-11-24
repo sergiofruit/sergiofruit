@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**sergiofruit/sergiofruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# sergiofruit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automation · Telegram Bots · Homelab**
+
+Building projects, experimenting with infrastructure and learning along the way.
+
+### Languages & Technologies
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,sqlite&theme=dark" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux&theme=dark" />
+
+</div>
